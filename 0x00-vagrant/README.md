@@ -1,0 +1,1 @@
+This folder, 0x00-vagrant, was created to contain the answer to a project question in a file. The answer is in the other file, "0-hello_ubuntu".
